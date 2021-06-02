@@ -1,0 +1,52 @@
+Created by testinium on 1.06.2021
+
+This is a concept file with following syntax for each concept.
+
+# Bilet al butonuna tıkla
+* "3" saniye bekle
+* Al butonuna varsa tikla
+* "3" saniye bekle
+
+#Uçuşların listelendiği kontrol edilir
+*Uçuş liste kontrol
+*"3" saniye bekle
+
+#Ekonomik uçuş seçilir
+*Ekonomik Uçuş seç
+*"3" saniye bekle
+
+#Devam Butonuna tıkla
+*Devam Butonuna tıklanır
+*"3" saniye bekle
+
+# Tek yön uçuşu seç
+*Tek Yön Uçuş seç
+* "3" saniye bekle
+
+#Yön bilgisi olarak SAW to ESB Seçilir
+*kalkış yeri seç
+*"3" saniye bekle
+*Kalkış yerini "SAW" olarak seç
+*"3" saniye bekle
+*Varış yerini "ESB" olarak seç
+*"3" saniye bekle
+
+#Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+*Tarih seç
+*"3" saniye bekle
+
+#Tamam butonuna tıklanır
+*Tamam butonuna tıkla
+
+#Yetişkin bilgisi 2 olarak seçilir
+*Kişi sayısını "1" artır
+*"3" saniye bekle
+
+#Uçuş ara butonuna tıklanır.
+*Uçuş ara
+*"3" saniye bekle
+
+//#Uçuşların listelendiği kontrol edilir
+//#Ekonomik uçuş seçilir
+//#Devam butonuna tıklanır
+
